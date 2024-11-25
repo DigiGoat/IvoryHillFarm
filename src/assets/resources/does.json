@@ -89,5 +89,18 @@
       "displayName": ""
     },
     "colorAndMarking": ""
+  },
+  {
+    "name": "Johnson FF JS Snickers",
+    "dateOfBirth": "2023-04-06T08:57:44",
+    "normalizeId": "PD2300152",
+    "id": 2300152,
+    "sex": "Female",
+    "damId": 1901544,
+    "sireId": 1910196,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
