@@ -8,5 +8,17 @@
     "instagram": "ivoryhillfarm"
   },
   "kiddingSchedule": true,
-  "homeDescription": "Ivory Hill Farm is located in South Central WA. We are currently bringing in lines to better our herd, and we are also making very hard (and emotional) cuts within our herd to help in the long run. We have been participating in some shows the past year and a half, and plan to do LA and DHI in the near future!"
+  "homeDescription": "Ivory Hill Farm is located in South Central WA. We are currently bringing in lines to better our herd, and we are also making very hard (and emotional) cuts within our herd to help in the long run. We have been participating in some shows the past year and a half, and plan to do LA and DHI in the near future!",
+  "colors": {
+    "main": "hsl(0, 0%, 10%)",
+    "light": {
+      "main": "hsl(0, 0%, 100%)",
+      "secondary": "hsl(0, 0%, 75%)",
+      "tertiary": "hsl(0, 0%, 70%)",
+      "quaternary": "hsl(0, 0%, 50%)"
+    },
+    "secondary": "hsl(0, 0%, 15%)",
+    "tertiary": "hsl(0, 0%, 20%)",
+    "quaternary": "hsl(0, 0%, 25%)"
+  }
 }
