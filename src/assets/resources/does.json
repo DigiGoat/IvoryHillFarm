@@ -37,5 +37,18 @@
       "displayName": ""
     },
     "colorAndMarking": ""
+  },
+  {
+    "name": "TUA Farms PK Lucrezia Borgia",
+    "dateOfBirth": "2022-03-10T21:35:58",
+    "normalizeId": "PD2230275",
+    "id": 2230275,
+    "sex": "Female",
+    "damId": 1800923,
+    "sireId": 1656811,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
