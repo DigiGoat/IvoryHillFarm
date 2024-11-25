@@ -115,5 +115,18 @@
       "displayName": ""
     },
     "colorAndMarking": ""
+  },
+  {
+    "name": "TUA Farms BF Marigold",
+    "dateOfBirth": "2024-02-06T15:22:41",
+    "normalizeId": "PD2373939",
+    "id": 2373939,
+    "sex": "Female",
+    "damId": 2252835,
+    "sireId": 2281059,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
