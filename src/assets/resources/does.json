@@ -63,5 +63,18 @@
       "displayName": ""
     },
     "colorAndMarking": ""
+  },
+  {
+    "name": "Ivory Hills CA Hot Tamale",
+    "dateOfBirth": "2023-03-02T17:45:21",
+    "normalizeId": "PD2283625",
+    "id": 2283625,
+    "sex": "Female",
+    "damId": 2168475,
+    "sireId": 1906773,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
