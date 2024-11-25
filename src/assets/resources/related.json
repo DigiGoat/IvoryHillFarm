@@ -1,1 +1,3268 @@
-[]
+[
+  {
+    "name": "Till-Riv U I'm Unlimited",
+    "dateOfBirth": "2023-03-08T11:19:58",
+    "normalizeId": "PD2368944",
+    "id": 2368944,
+    "sex": "Male",
+    "damId": 1804335,
+    "sireId": 1688435,
+    "ownerAccount": {
+      "displayName": "Abigail Messer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2024-10-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "G",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 328132
+      }
+    ]
+  },
+  {
+    "name": "Whey-TO-Go 18 Karat Gold",
+    "dateOfBirth": "2023-02-04T14:09:04",
+    "normalizeId": "AS2321239",
+    "id": 2321239,
+    "sex": "Male",
+    "damId": 2187547,
+    "sireId": 2192173,
+    "ownerAccount": {
+      "displayName": "Ian Dunning"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Broken Top MT Peppa Pig",
+    "dateOfBirth": "2023-02-28T10:30:35",
+    "normalizeId": "PD2287852",
+    "id": 2287852,
+    "sex": "Female",
+    "damId": 1888554,
+    "sireId": 1539256,
+    "ownerAccount": {
+      "displayName": "Abigail Messer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-10-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 328130
+      }
+    ]
+  },
+  {
+    "name": "IlenesRascals SC Beneficio ",
+    "dateOfBirth": "2023-01-03T16:15:25",
+    "normalizeId": "PD2281059",
+    "id": 2281059,
+    "sex": "Male",
+    "damId": 1710082,
+    "sireId": 1805634,
+    "ownerAccount": {
+      "displayName": "Amy York"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Dlmg Farms LJ Antique Lace",
+    "dateOfBirth": "2022-03-05T15:36:48",
+    "normalizeId": "PD2256616",
+    "id": 2256616,
+    "sex": "Female",
+    "damId": 1561853,
+    "sireId": 1501789,
+    "ownerAccount": {
+      "displayName": "Katie Bosma"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "TUA Farms PK Zinnia",
+    "dateOfBirth": "2022-03-10T18:12:54",
+    "normalizeId": "PD2252835",
+    "id": 2252835,
+    "sex": "Female",
+    "damId": 1800923,
+    "sireId": 1656811,
+    "ownerAccount": {
+      "displayName": "Amy York"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-09-26T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 327443
+      }
+    ]
+  },
+  {
+    "name": "TUA Farms PK Time Keeper",
+    "dateOfBirth": "2022-03-13T23:11:41",
+    "normalizeId": "PD2247358",
+    "id": 2247358,
+    "sex": "Male",
+    "damId": 1542001,
+    "sireId": 1656811,
+    "ownerAccount": {
+      "displayName": "Katie Bosma"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Hanson Hideaway B’udder Mint",
+    "dateOfBirth": "2022-03-14T11:22:06",
+    "normalizeId": "PD2232037",
+    "id": 2232037,
+    "sex": "Female",
+    "damId": 1885373,
+    "sireId": 2183621,
+    "ownerAccount": {
+      "displayName": "Katie Bosma"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Tall & Small Rosarita",
+    "dateOfBirth": "2021-03-31T00:00:00",
+    "normalizeId": "PD2175115",
+    "id": 2175115,
+    "sex": "Female",
+    "damId": 1477543,
+    "sireId": 1814528,
+    "ownerAccount": {
+      "displayName": "Carlee Stutz"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2022-08-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 297733
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2023-08-22T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "G",
+        "bodyCapacity": "V",
+        "mammarySystem": "G",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 305569
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2024-09-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 327305
+      }
+    ]
+  },
+  {
+    "name": "Malaga Minis Smokin Hot Wind",
+    "dateOfBirth": "2021-03-20T00:00:00",
+    "normalizeId": "PD2168475",
+    "id": 2168475,
+    "sex": "Female",
+    "damId": 1730511,
+    "sireId": 1824756,
+    "ownerAccount": {
+      "displayName": "Katie Bosma"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Goat Addiction Twisted Fetish",
+    "dateOfBirth": "2021-01-26T00:00:00",
+    "normalizeId": "PD2151137",
+    "id": 1943675,
+    "sex": "Female",
+    "damId": 1787211,
+    "sireId": 1754423,
+    "ownerAccount": {
+      "displayName": "Abigail Messer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2023-06-28T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 305004
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2024-10-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "G",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 328125
+      }
+    ]
+  },
+  {
+    "name": "Highland Ranch AD Time4justice",
+    "dateOfBirth": "2020-04-01T00:00:00",
+    "normalizeId": "PD2117698",
+    "id": 1910196,
+    "sex": "Male",
+    "damId": 1311442,
+    "sireId": 1730006,
+    "ownerAccount": {
+      "displayName": "Jennifer Johnson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-02T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 304742
+      }
+    ]
+  },
+  {
+    "name": "IlenesRascals SD Jagermeister",
+    "dateOfBirth": "2020-04-22T00:00:00",
+    "normalizeId": "PD2115377",
+    "id": 1907875,
+    "sex": "Male",
+    "damId": 1497784,
+    "sireId": 1803560,
+    "ownerAccount": {
+      "displayName": "Mel & Laurie Homer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Camanna BK Cheeky Atticus",
+    "dateOfBirth": "2020-04-28T00:00:00",
+    "normalizeId": "PD2114275",
+    "id": 1906773,
+    "sex": "Male",
+    "damId": 1384374,
+    "sireId": 1805573,
+    "ownerAccount": {
+      "displayName": "Mirja Korzybski"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-07-05T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": " ",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 286302
+      }
+    ]
+  },
+  {
+    "name": "Hanson Hideaway BV Dots",
+    "dateOfBirth": "2020-05-02T00:00:00",
+    "normalizeId": "PD2109046",
+    "id": 1901544,
+    "sex": "Female",
+    "damId": 1601858,
+    "sireId": 1673976,
+    "ownerAccount": {
+      "displayName": "Jennifer Johnson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 304656
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2024-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 326759
+      }
+    ]
+  },
+  {
+    "name": "Minterbay Sbj Tiger Beat",
+    "dateOfBirth": "2020-04-27T00:00:00",
+    "normalizeId": "PD2106241",
+    "id": 1898719,
+    "sex": "Male",
+    "damId": 1578231,
+    "sireId": 1486235,
+    "ownerAccount": {
+      "displayName": "Jodi Mcdowell"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Highland Ranch PD Vegas Prize",
+    "dateOfBirth": "2020-03-09T00:00:00",
+    "normalizeId": "PD2102469",
+    "id": 1894947,
+    "sex": "Male",
+    "damId": 1643736,
+    "sireId": 1575120,
+    "ownerAccount": {
+      "displayName": "Elianna Mielbrecht"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Hanson Hideaway Violet Crumble",
+    "dateOfBirth": "2020-04-01T00:00:00",
+    "normalizeId": "PD2092891",
+    "id": 1885369,
+    "sex": "Female",
+    "damId": 1641224,
+    "sireId": 1673976,
+    "ownerAccount": {
+      "displayName": "Amanda Hanson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2023-08-02T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 304452
+      }
+    ]
+  },
+  {
+    "name": "Dlmg Farms JT Cambria",
+    "dateOfBirth": "2019-06-01T00:00:00",
+    "normalizeId": "PD2038266",
+    "id": 1830644,
+    "sex": "Female",
+    "damId": 1461493,
+    "sireId": 1740556,
+    "ownerAccount": {
+      "displayName": "Mel & Laurie Homer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-10-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 285703
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2023-08-04T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 304018
+      }
+    ]
+  },
+  {
+    "name": "Tempo Passa Sybil",
+    "dateOfBirth": "2019-01-22T00:00:00",
+    "normalizeId": "AS2015227",
+    "id": 1807582,
+    "sex": "Female",
+    "damId": 1585574,
+    "sireId": 1706486,
+    "ownerAccount": {
+      "displayName": "Ian Dunning"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2021-06-21T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 283246
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 301872
+      }
+    ]
+  },
+  {
+    "name": "3G Family Farm SQ Sweet Cheeks",
+    "dateOfBirth": "2019-03-01T00:00:00",
+    "normalizeId": "PD2013282",
+    "id": 1805634,
+    "sex": "Male",
+    "damId": 1348857,
+    "sireId": 1731386,
+    "ownerAccount": {
+      "displayName": "Ilene Leader"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "TUA Farms MB Lilliana",
+    "dateOfBirth": "2019-03-06T00:00:00",
+    "normalizeId": "PD2008578",
+    "id": 1800923,
+    "sex": "Female",
+    "damId": 1522367,
+    "sireId": 1712578,
+    "ownerAccount": {
+      "displayName": "Amy York"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-09-29T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 285357
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-06-21T00:00:00",
+        "generalAppearance": "v",
+        "dairyStrength": "v",
+        "bodyCapacity": "e",
+        "mammarySystem": "e",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 303778
+      }
+    ]
+  },
+  {
+    "name": "TUA Farms MB Smoke N Bold",
+    "dateOfBirth": "2019-02-09T00:00:00",
+    "normalizeId": "PD2008572",
+    "id": 1800917,
+    "sex": "Male",
+    "damId": 1648271,
+    "sireId": 1712578,
+    "ownerAccount": {
+      "displayName": "Ashley Richardson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Little Redhouse Hey!look! Navi",
+    "dateOfBirth": "2019-03-19T00:00:00",
+    "normalizeId": "PD2005543",
+    "id": 1797885,
+    "sex": "Female",
+    "damId": 1676988,
+    "sireId": 1723848,
+    "ownerAccount": {
+      "displayName": "Trenne Earl"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 285332
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2023-08-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 303744
+      },
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 324154
+      }
+    ]
+  },
+  {
+    "name": "Ilenes Rascals WP Athena",
+    "dateOfBirth": "2018-01-31T00:00:00",
+    "normalizeId": "PD1917787",
+    "id": 1710082,
+    "sex": "Female",
+    "damId": 1511447,
+    "sireId": 1656812,
+    "ownerAccount": {
+      "displayName": "Ilene Leader"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "1800-01-01T00:00:00",
+        "generalAppearance": null,
+        "dairyStrength": null,
+        "bodyCapacity": null,
+        "mammarySystem": null,
+        "finalScore": null,
+        "isPermanent": false,
+        "id": 267007
+      }
+    ]
+  },
+  {
+    "name": "Cedar View Hudson",
+    "dateOfBirth": "2017-07-05T00:00:00",
+    "normalizeId": "PD1907715",
+    "id": 1700030,
+    "sex": "Male",
+    "damId": 1279029,
+    "sireId": 1365229,
+    "ownerAccount": {
+      "displayName": "Amanda Hanson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2024-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 326756
+      }
+    ]
+  },
+  {
+    "name": "Wood Bridge Farm Promise Kept",
+    "dateOfBirth": "2017-04-21T00:00:00",
+    "normalizeId": "PD1864456",
+    "id": 1656811,
+    "sex": "Male",
+    "damId": 1543549,
+    "sireId": 1543525,
+    "ownerAccount": {
+      "displayName": "William Mcelvain"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Highland Ranch PD Soldotna",
+    "dateOfBirth": "2017-03-20T00:00:00",
+    "normalizeId": "PD1856035",
+    "id": 1648370,
+    "sex": "Female",
+    "damId": 1529625,
+    "sireId": 1575120,
+    "ownerAccount": {
+      "displayName": "Mark & Samantha Mielbrecht"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 269786
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 284611
+      }
+    ]
+  },
+  {
+    "name": "SG Gladdie Acres AR Harlequin",
+    "dateOfBirth": "2016-02-25T00:00:00",
+    "normalizeId": "PD1823268",
+    "id": 1615583,
+    "sex": "Female",
+    "damId": 1493401,
+    "sireId": 1516306,
+    "ownerAccount": {
+      "displayName": "Katie Bosma"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-08-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 273718
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "1800-01-01T00:00:00",
+        "generalAppearance": null,
+        "dairyStrength": null,
+        "bodyCapacity": null,
+        "mammarySystem": null,
+        "finalScore": null,
+        "isPermanent": false,
+        "id": 281570
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-06-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 284536
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2023-06-28T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 303176
+      }
+    ]
+  },
+  {
+    "name": "SG Almar Acres AK Mocha Cream",
+    "dateOfBirth": "2016-03-17T00:00:00",
+    "normalizeId": "PD1800367",
+    "id": 1592590,
+    "sex": "Female",
+    "damId": 1463860,
+    "sireId": 1498113,
+    "ownerAccount": {
+      "displayName": "Mel & Laurie Homer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-08-04T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 274510
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-10-01T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 284479
+      }
+    ]
+  },
+  {
+    "name": "Dlmg Farms Dre Venice Lace",
+    "dateOfBirth": "2016-02-28T00:00:00",
+    "normalizeId": "PD1769638",
+    "id": 1561853,
+    "sex": "Female",
+    "damId": 1341314,
+    "sireId": 1521625,
+    "ownerAccount": {
+      "displayName": "Mel & Laurie Homer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-08-04T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 274509
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-10-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": true,
+        "id": 284387
+      }
+    ]
+  },
+  {
+    "name": "SGCH Oak Apple Greta Go Girl",
+    "dateOfBirth": "2015-03-07T00:00:00",
+    "normalizeId": "PD1749806",
+    "id": 1542001,
+    "sex": "Female",
+    "damId": 1224809,
+    "sireId": 1368699,
+    "ownerAccount": {
+      "displayName": "Amy York"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2016-08-05T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "+",
+        "mammarySystem": "+",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 243651
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2017-06-19T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 82,
+        "isPermanent": false,
+        "id": 250653
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2018-08-04T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 262739
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2019-06-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 270771
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-09-29T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "+",
+        "finalScore": 87,
+        "isPermanent": true,
+        "id": 284352
+      }
+    ]
+  },
+  {
+    "name": "Buttin'heads Money Talks",
+    "dateOfBirth": "2015-06-09T00:00:00",
+    "normalizeId": "PD1747075",
+    "id": 1539256,
+    "sex": "Male",
+    "damId": 1208513,
+    "sireId": 1500000,
+    "ownerAccount": {
+      "displayName": "Abigail Messer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-06-14T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "F",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 75,
+        "isPermanent": false,
+        "id": 240242
+      }
+    ]
+  },
+  {
+    "name": "Castle Rock Sutter's Gold",
+    "dateOfBirth": "2014-03-01T00:00:00",
+    "normalizeId": "PD1732642",
+    "id": 1524780,
+    "sex": "Male",
+    "damId": 1297436,
+    "sireId": 1348847,
+    "ownerAccount": {
+      "displayName": "Jena Williams"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "GCH Gladdie Acres Giorgio Armani",
+    "dateOfBirth": "2015-03-23T00:00:00",
+    "normalizeId": "PD1724189",
+    "id": 1516306,
+    "sex": "Male",
+    "damId": 1437520,
+    "sireId": 1426740,
+    "ownerAccount": {
+      "displayName": "Miranda Mathae"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 238994
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 252101
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-08-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 273716
+      }
+    ]
+  },
+  {
+    "name": "GCH Almar Acres O Leroy Jethro G",
+    "dateOfBirth": "2014-05-02T00:00:00",
+    "normalizeId": "PD1709684",
+    "id": 1501789,
+    "sex": "Male",
+    "damId": 1381382,
+    "sireId": 1332060,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-07-09T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 233912
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 249610
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-08-04T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 274505
+      }
+    ]
+  },
+  {
+    "name": "SG Gladdie Acres FO Take A Chance",
+    "dateOfBirth": "2014-03-24T00:00:00",
+    "normalizeId": "PD1701305",
+    "id": 1493401,
+    "sex": "Female",
+    "damId": 1328692,
+    "sireId": 1260305,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 238991
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-27T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 252099
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2018-07-21T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 262401
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2019-08-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 273715
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "1800-01-01T00:00:00",
+        "generalAppearance": null,
+        "dairyStrength": null,
+        "bodyCapacity": null,
+        "mammarySystem": null,
+        "finalScore": null,
+        "isPermanent": false,
+        "id": 281567
+      }
+    ]
+  },
+  {
+    "name": "Diji Farm Sgw Greta Garbo",
+    "dateOfBirth": "2013-02-06T00:00:00",
+    "normalizeId": "PD1639472",
+    "id": 1431402,
+    "sex": "Female",
+    "damId": 1300584,
+    "sireId": 1336215,
+    "ownerAccount": {
+      "displayName": "Ashley Richardson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-28T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 229846
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2016-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 237831
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2018-07-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 265773
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-14T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 270215
+      }
+    ]
+  },
+  {
+    "name": "Mosaic Something Special ET",
+    "dateOfBirth": "2021-03-31T14:39:07",
+    "normalizeId": "AS2192173",
+    "id": 2192173,
+    "sex": "Male",
+    "damId": 1340812,
+    "sireId": 1892762,
+    "ownerAccount": {
+      "displayName": "Mariah Kupler"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-06-19T00:00:00",
+        "generalAppearance": "g",
+        "dairyStrength": "v",
+        "bodyCapacity": "g",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 302155
+      }
+    ]
+  },
+  {
+    "name": "Whey-TO-Go Goldberry",
+    "dateOfBirth": "2020-05-27T16:00:29",
+    "normalizeId": "AS2187547",
+    "id": 2187547,
+    "sex": "Female",
+    "damId": 1818108,
+    "sireId": 1673441,
+    "ownerAccount": {
+      "displayName": "Dan & Camille O'connor & Family"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-06-19T00:00:00",
+        "generalAppearance": "v",
+        "dairyStrength": "e",
+        "bodyCapacity": "e",
+        "mammarySystem": "e",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 302148
+      }
+    ]
+  },
+  {
+    "name": "Hanson Hideaway Jokerz",
+    "dateOfBirth": "2021-03-14T07:44:16",
+    "normalizeId": "PD2183621",
+    "id": 2183621,
+    "sex": "Male",
+    "damId": 1641224,
+    "sireId": 1700030,
+    "ownerAccount": {
+      "displayName": "Amanda Hanson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 305778
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2024-09-01T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 326748
+      }
+    ]
+  },
+  {
+    "name": "EZ PZ Farm Ladyglittersparkles",
+    "dateOfBirth": "2020-03-10T00:00:00",
+    "normalizeId": "PD2096076",
+    "id": 1888554,
+    "sex": "Female",
+    "damId": 1431402,
+    "sireId": 1800917,
+    "ownerAccount": {
+      "displayName": "Katie Bosma"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-06-07T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "+",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 286179
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2023-06-28T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "V",
+        "mammarySystem": "G",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 304492
+      }
+    ]
+  },
+  {
+    "name": "Hanson Hideaway B'uddercream",
+    "dateOfBirth": "2020-04-02T00:00:00",
+    "normalizeId": "PD2092895",
+    "id": 1885373,
+    "sex": "Female",
+    "damId": 1751864,
+    "sireId": 1609611,
+    "ownerAccount": {
+      "displayName": "Amanda Hanson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2023-08-02T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 304453
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time ZZ Aleutian Wind",
+    "dateOfBirth": "2019-04-07T00:00:00",
+    "normalizeId": "PD2032377",
+    "id": 1824756,
+    "sex": "Male",
+    "damId": 1643420,
+    "sireId": 1644245,
+    "ownerAccount": {
+      "displayName": "Pamela Stubbe"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "CH Winning Streak CM Molded Rose",
+    "dateOfBirth": "2019-02-21T00:00:00",
+    "normalizeId": "PD2022173",
+    "id": 1814528,
+    "sex": "Male",
+    "damId": 1674722,
+    "sireId": 1656282,
+    "ownerAccount": {
+      "displayName": "Jennifer Dachton"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2020-03-16T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 80,
+        "isPermanent": false,
+        "id": 277544
+      }
+    ]
+  },
+  {
+    "name": "Camanna Bta Blue Moon Knight",
+    "dateOfBirth": "2019-03-14T00:00:00",
+    "normalizeId": "PD2013221",
+    "id": 1805573,
+    "sex": "Male",
+    "damId": 1597179,
+    "sireId": 1535373,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Till-Riv WTM I'm A Hoot",
+    "dateOfBirth": "2019-04-01T00:00:00",
+    "normalizeId": "PD2011984",
+    "id": 1804335,
+    "sex": "Female",
+    "damId": 1662362,
+    "sireId": 1752412,
+    "ownerAccount": {
+      "displayName": "Leroy Satter"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "1800-01-01T00:00:00",
+        "generalAppearance": null,
+        "dairyStrength": null,
+        "bodyCapacity": null,
+        "mammarySystem": null,
+        "finalScore": null,
+        "isPermanent": false,
+        "id": 281474
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2023-06-28T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 303795
+      }
+    ]
+  },
+  {
+    "name": "Agape's Prize Saint Dismus",
+    "dateOfBirth": "2019-02-22T00:00:00",
+    "normalizeId": "PD2011213",
+    "id": 1803560,
+    "sex": "Male",
+    "damId": 1509823,
+    "sireId": 1462954,
+    "ownerAccount": {
+      "displayName": "Samara Groves"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Goat Addiction Kinky Jane",
+    "dateOfBirth": "2019-01-13T00:00:00",
+    "normalizeId": "PD1994876",
+    "id": 1787211,
+    "sex": "Female",
+    "damId": 1531818,
+    "sireId": 1608203,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2021-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 285243
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2022-06-26T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "G",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 298068
+      }
+    ]
+  },
+  {
+    "name": "Dill's Ror F I T With A Z ",
+    "dateOfBirth": "2018-02-16T00:00:00",
+    "normalizeId": "PD1962088",
+    "id": 1754423,
+    "sex": "Male",
+    "damId": 1264901,
+    "sireId": 1643707,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Loperrized JS Jettie ",
+    "dateOfBirth": "2018-03-30T00:00:00",
+    "normalizeId": "PD1948221",
+    "id": 1740556,
+    "sex": "Male",
+    "damId": 1575582,
+    "sireId": 1501789,
+    "ownerAccount": {
+      "displayName": "Mel & Laurie Homer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-08-04T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 274514
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-10-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": " ",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 285018
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-08-04T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": true,
+        "id": 303528
+      }
+    ]
+  },
+  {
+    "name": "Agape's Prize Sulaymaan Quinn",
+    "dateOfBirth": "2018-04-22T00:00:00",
+    "normalizeId": "PD1939070",
+    "id": 1731386,
+    "sex": "Male",
+    "damId": 1543547,
+    "sireId": 1326589,
+    "ownerAccount": {
+      "displayName": "Brianna Beckley"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Twin Peak Farms Smokinhot Mess",
+    "dateOfBirth": "2018-03-30T00:00:00",
+    "normalizeId": "PD1938196",
+    "id": 1730511,
+    "sex": "Female",
+    "damId": 1674359,
+    "sireId": 1597887,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-20T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 81,
+        "isPermanent": false,
+        "id": 270784
+      }
+    ]
+  },
+  {
+    "name": "Leisure Time ZZ All Dressed UP",
+    "dateOfBirth": "2018-03-04T00:00:00",
+    "normalizeId": "PD1937691",
+    "id": 1730006,
+    "sex": "Male",
+    "damId": 1487307,
+    "sireId": 1644245,
+    "ownerAccount": {
+      "displayName": "Becky Gee"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Hetlandcreek PD Steel Guitar",
+    "dateOfBirth": "2018-02-05T00:00:00",
+    "normalizeId": "PD1931533",
+    "id": 1723848,
+    "sex": "Male",
+    "damId": 1345760,
+    "sireId": 1486576,
+    "ownerAccount": {
+      "displayName": "Brittany C Mathis"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Old Mountain Farm M Bold N",
+    "dateOfBirth": "2018-01-28T00:00:00",
+    "normalizeId": "PD1920263",
+    "id": 1712578,
+    "sex": "Male",
+    "damId": 1506880,
+    "sireId": 1628731,
+    "ownerAccount": {
+      "displayName": "Courtney Boyer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 270776
+      }
+    ]
+  },
+  {
+    "name": "Tempo Passa Eltantor",
+    "dateOfBirth": "2018-01-25T00:00:00",
+    "normalizeId": "AS1914191",
+    "id": 1706486,
+    "sex": "Male",
+    "damId": 1273696,
+    "sireId": 1197165,
+    "ownerAccount": {
+      "displayName": "Lauren L Acton Dvm"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Farm Oldesouth Lmt Unlimited",
+    "dateOfBirth": "2017-08-24T00:00:00",
+    "normalizeId": "PD1896060",
+    "id": 1688435,
+    "sex": "Male",
+    "damId": 1361876,
+    "sireId": 1566270,
+    "ownerAccount": {
+      "displayName": "Michael & Jennifer Bowman"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-08-19T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 271610
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": " ",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 284746
+      }
+    ]
+  },
+  {
+    "name": "SG Little Redhouse Huckleberryfae",
+    "dateOfBirth": "2017-07-19T00:00:00",
+    "normalizeId": "PD1884613",
+    "id": 1676988,
+    "sex": "Female",
+    "damId": 1564433,
+    "sireId": 1563911,
+    "ownerAccount": {
+      "displayName": "Trenne Earl"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 269408
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 284710
+      },
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2023-08-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 303297
+      }
+    ]
+  },
+  {
+    "name": "CH Cedar View Benvenuto",
+    "dateOfBirth": "2017-05-22T00:00:00",
+    "normalizeId": "PD1881601",
+    "id": 1673976,
+    "sex": "Male",
+    "damId": 1394850,
+    "sireId": 1392503,
+    "ownerAccount": {
+      "displayName": "Amanda Hanson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 260859
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-11T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 269747
+      }
+    ]
+  },
+  {
+    "name": "Wood Bridge Farm Promisclasact",
+    "dateOfBirth": "2017-04-21T00:00:00",
+    "normalizeId": "PD1864457",
+    "id": 1656812,
+    "sex": "Male",
+    "damId": 1543549,
+    "sireId": 1543525,
+    "ownerAccount": {
+      "displayName": "Astrud Wheeles"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "SG TUA Farms SH Smoke And Mirrors",
+    "dateOfBirth": "2017-03-29T00:00:00",
+    "normalizeId": "PD1855936",
+    "id": 1648271,
+    "sex": "Female",
+    "damId": 1385677,
+    "sireId": 1597887,
+    "ownerAccount": {
+      "displayName": "Amy York"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2019-06-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 270775
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-09-29T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 284608
+      }
+    ]
+  },
+  {
+    "name": "GCH Almar Acres RK Idaho Girl",
+    "dateOfBirth": "2017-03-04T00:00:00",
+    "normalizeId": "PD1851421",
+    "id": 1643736,
+    "sex": "Female",
+    "damId": 1550652,
+    "sireId": 1457430,
+    "ownerAccount": {
+      "displayName": "Elianna Mielbrecht"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 269783
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 284588
+      }
+    ]
+  },
+  {
+    "name": "SG Gladdie Acres CC Reeses",
+    "dateOfBirth": "2017-03-19T00:00:00",
+    "normalizeId": "PD1848909",
+    "id": 1641224,
+    "sex": "Female",
+    "damId": 1493401,
+    "sireId": 1426740,
+    "ownerAccount": {
+      "displayName": "Amanda Hanson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2019-06-11T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 269746
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 284582
+      },
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2023-08-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 303221
+      }
+    ]
+  },
+  {
+    "name": "Hansons Hideaway Farm Almndjoy",
+    "dateOfBirth": "2016-06-05T00:00:00",
+    "normalizeId": "PD1809562",
+    "id": 1601858,
+    "sex": "Female",
+    "damId": 1453597,
+    "sireId": 1424230,
+    "ownerAccount": {
+      "displayName": "Amanda Hanson"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2018-07-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 260858
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-06-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 269745
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 284506
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2023-08-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 303168
+      }
+    ]
+  },
+  {
+    "name": "Tempo Passa Sofia",
+    "dateOfBirth": "2016-04-12T00:00:00",
+    "normalizeId": "AS1793359",
+    "id": 1585574,
+    "sex": "Female",
+    "damId": 1322332,
+    "sireId": 1496857,
+    "ownerAccount": {
+      "displayName": "Audrey Roghair"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2018-07-26T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 262295
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-08-06T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 273761
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2021-06-21T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": true,
+        "id": 282962
+      }
+    ]
+  },
+  {
+    "name": "Loperrized FS Tiger Paws",
+    "dateOfBirth": "2016-04-08T00:00:00",
+    "normalizeId": "PD1786036",
+    "id": 1578231,
+    "sex": "Female",
+    "damId": 1461493,
+    "sireId": 1504535,
+    "ownerAccount": {
+      "displayName": "Christina Coleman"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Highland Ranch 8SR It's Payday",
+    "dateOfBirth": "2016-04-01T00:00:00",
+    "normalizeId": "PD1782925",
+    "id": 1575120,
+    "sex": "Male",
+    "damId": 1311442,
+    "sireId": 1513663,
+    "ownerAccount": {
+      "displayName": "Michele Poortinga"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "GCH Wood Bridge Farm Pets Promise",
+    "dateOfBirth": "2015-05-13T00:00:00",
+    "normalizeId": "PD1751354",
+    "id": 1543549,
+    "sex": "Female",
+    "damId": 1420015,
+    "sireId": 1462954,
+    "ownerAccount": {
+      "displayName": "Wayne, Kim, Emma & Bess Hughes"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 259876
+      }
+    ]
+  },
+  {
+    "name": "GCH Wood Bridge Farm Undeniable",
+    "dateOfBirth": "2015-03-28T00:00:00",
+    "normalizeId": "PD1751330",
+    "id": 1543525,
+    "sex": "Male",
+    "damId": 1312330,
+    "sireId": 1489748,
+    "ownerAccount": {
+      "displayName": "Margot Cassel & Family"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "1800-01-01T00:00:00",
+        "generalAppearance": null,
+        "dairyStrength": null,
+        "bodyCapacity": null,
+        "mammarySystem": null,
+        "finalScore": null,
+        "isPermanent": false,
+        "id": 271487
+      }
+    ]
+  },
+  {
+    "name": "Highland Ranch MM Talkeetna",
+    "dateOfBirth": "2015-07-31T00:00:00",
+    "normalizeId": "PD1737468",
+    "id": 1529625,
+    "sex": "Female",
+    "damId": 1390442,
+    "sireId": 1439059,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-07T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 250346
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 260683
+      }
+    ]
+  },
+  {
+    "name": "Camanna RA Uliana",
+    "dateOfBirth": "2015-03-17T00:00:00",
+    "normalizeId": "PD1730236",
+    "id": 1522367,
+    "sex": "Female",
+    "damId": 1296772,
+    "sireId": 1456223,
+    "ownerAccount": {
+      "displayName": "Elisabeth Olsen"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2017-06-19T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 250654
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2018-08-04T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 262740
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2019-06-20T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 270772
+      }
+    ]
+  },
+  {
+    "name": "Jaxco Farms Dreagan",
+    "dateOfBirth": "2015-03-10T00:00:00",
+    "normalizeId": "PD1729494",
+    "id": 1521625,
+    "sex": "Male",
+    "damId": 1330247,
+    "sireId": 1422766,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-12T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 249612
+      }
+    ]
+  },
+  {
+    "name": "Urban Acres SW Wendy",
+    "dateOfBirth": "2015-03-18T00:00:00",
+    "normalizeId": "PD1719337",
+    "id": 1511447,
+    "sex": "Female",
+    "damId": 1467608,
+    "sireId": 1306096,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2017-06-09T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "+",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 249350
+      }
+    ]
+  },
+  {
+    "name": "Buttin'heads Gunmetal",
+    "dateOfBirth": "2014-02-24T00:00:00",
+    "normalizeId": "PD1707899",
+    "id": 1500000,
+    "sex": "Male",
+    "damId": 1356177,
+    "sireId": 1415507,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Castle Rock Akikta",
+    "dateOfBirth": "2014-06-24T00:00:00",
+    "normalizeId": "PD1706009",
+    "id": 1498113,
+    "sex": "Male",
+    "damId": 1332910,
+    "sireId": 1348847,
+    "ownerAccount": {
+      "displayName": "Karen & David Bratcher"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-08-05T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 243832
+      }
+    ]
+  },
+  {
+    "name": "GCH Desertnanny Designer Cupcake",
+    "dateOfBirth": "2013-03-08T00:00:00",
+    "normalizeId": "PD1705680",
+    "id": 1497784,
+    "sex": "Female",
+    "damId": 1277082,
+    "sireId": 1373101,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-08T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 248774
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2018-07-13T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 259591
+      }
+    ]
+  },
+  {
+    "name": "Castle Rock Sweet Baby James",
+    "dateOfBirth": "2013-02-18T00:00:00",
+    "normalizeId": "PD1694150",
+    "id": 1486235,
+    "sex": "Male",
+    "damId": 1332915,
+    "sireId": 1236140,
+    "ownerAccount": {
+      "displayName": "Karie Sherman"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-05-10T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 225071
+      }
+    ]
+  },
+  {
+    "name": "GCH Tall & Small Bhl Estelle",
+    "dateOfBirth": "2014-04-15T00:00:00",
+    "normalizeId": "PD1685482",
+    "id": 1477543,
+    "sex": "Female",
+    "damId": 1395150,
+    "sireId": 1395770,
+    "ownerAccount": {
+      "displayName": "Carlee Stutz"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-26T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 229513
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2016-07-28T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 243489
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-08-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 264091
+      }
+    ]
+  },
+  {
+    "name": "SGCH Camanna RM Chocolate Eclair",
+    "dateOfBirth": "2014-02-20T00:00:00",
+    "normalizeId": "PD1671820",
+    "id": 1463860,
+    "sex": "Female",
+    "damId": 1201268,
+    "sireId": 1462205,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2015-06-09T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 227858
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-08-05T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 243830
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2017-06-21T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 249188
+      }
+    ]
+  },
+  {
+    "name": "GCH Cabrandywinfarms Akr Suri",
+    "dateOfBirth": "2013-12-27T00:00:00",
+    "normalizeId": "PD1669462",
+    "id": 1461493,
+    "sex": "Female",
+    "damId": 1293498,
+    "sireId": 1407062,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2019-08-04T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 274504
+      }
+    ]
+  },
+  {
+    "name": "Gladdie Acres Mtb Miss Dior",
+    "dateOfBirth": "2013-04-08T00:00:00",
+    "normalizeId": "PD1645583",
+    "id": 1437520,
+    "sex": "Female",
+    "damId": 1328692,
+    "sireId": 1146515,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Gladdie Acres Mtb Cash Cow ",
+    "dateOfBirth": "2013-03-22T00:00:00",
+    "normalizeId": "PD1634813",
+    "id": 1426740,
+    "sex": "Male",
+    "damId": 1232247,
+    "sireId": 1146515,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-06-14T00:00:00",
+        "generalAppearance": "F",
+        "dairyStrength": "A",
+        "bodyCapacity": "A",
+        "mammarySystem": null,
+        "finalScore": 69,
+        "isPermanent": false,
+        "id": 217391
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-07-05T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 229299
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 238988
+      }
+    ]
+  },
+  {
+    "name": "CH Camanna RM Tressa Of Rosasharn",
+    "dateOfBirth": "2012-02-21T00:00:00",
+    "normalizeId": "PD1592541",
+    "id": 1384374,
+    "sex": "Female",
+    "damId": 1148188,
+    "sireId": 1298403,
+    "ownerAccount": {
+      "displayName": "Anna Brown"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-07-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 229971
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 238656
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "1800-01-01T00:00:00",
+        "generalAppearance": null,
+        "dairyStrength": null,
+        "bodyCapacity": null,
+        "mammarySystem": null,
+        "finalScore": null,
+        "isPermanent": false,
+        "id": 281611
+      }
+    ]
+  },
+  {
+    "name": "SGCH Castle Rock Angelika",
+    "dateOfBirth": "2012-02-28T00:00:00",
+    "normalizeId": "PD1589549",
+    "id": 1381382,
+    "sex": "Female",
+    "damId": 1332910,
+    "sireId": 1348847,
+    "ownerAccount": {
+      "displayName": "Sonia Thyssen"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2014-09-23T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 222468
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2015-06-09T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 227856
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2017-06-21T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 249187
+      }
+    ]
+  },
+  {
+    "name": "Proctor Hill Farm TO Go Daddy",
+    "dateOfBirth": "2010-12-24T00:00:00",
+    "normalizeId": "PD1576877",
+    "id": 1368699,
+    "sex": "Male",
+    "damId": 1236258,
+    "sireId": 1259946,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-24T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 220577
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-07-03T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 92,
+        "isPermanent": true,
+        "id": 229899
+      }
+    ]
+  },
+  {
+    "name": "Little Tots Estate Bambino",
+    "dateOfBirth": "2011-04-15T00:00:00",
+    "normalizeId": "PD1573407",
+    "id": 1365229,
+    "sex": "Male",
+    "damId": 1191851,
+    "sireId": 1261999,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "SGCH Castle Rock Sweet N Low",
+    "dateOfBirth": "2011-04-07T00:00:00",
+    "normalizeId": "PD1557067",
+    "id": 1348857,
+    "sex": "Female",
+    "damId": 1332915,
+    "sireId": 1332919,
+    "ownerAccount": {
+      "displayName": "Erica Jean Illg"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2015-06-28T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 229625
+      },
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2017-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 250075
+      }
+    ]
+  },
+  {
+    "name": "SG Castle Rock Cleveland Sage",
+    "dateOfBirth": "2011-02-05T00:00:00",
+    "normalizeId": "PD1557057",
+    "id": 1348847,
+    "sex": "Male",
+    "damId": 1297430,
+    "sireId": 1332919,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": []
+  },
+  {
+    "name": "Elfin Acres Millefleur",
+    "dateOfBirth": "2011-04-14T00:00:00",
+    "normalizeId": "PD1549531",
+    "id": 1341314,
+    "sex": "Female",
+    "damId": 1318026,
+    "sireId": 1318024,
+    "ownerAccount": {
+      "displayName": "Mel & Laurie Homer"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2012-06-13T00:00:00",
+        "generalAppearance": "F",
+        "dairyStrength": "A",
+        "bodyCapacity": "A",
+        "mammarySystem": "A",
+        "finalScore": 72,
+        "isPermanent": false,
+        "id": 196878
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2017-06-12T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "E",
+        "mammarySystem": "+",
+        "finalScore": 85,
+        "isPermanent": true,
+        "id": 249609
+      }
+    ]
+  },
+  {
+    "name": "AGS Jdr Ranch CS Spots Gone Wild",
+    "dateOfBirth": "2008-11-17T00:00:00",
+    "normalizeId": "PD1544443",
+    "id": 1336215,
+    "sex": "Male",
+    "damId": 1223359,
+    "sireId": 1145941,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2011-07-05T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 190004
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2012-06-05T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 202955
+      }
+    ]
+  },
+  {
+    "name": "Rosasharn GF Oba",
+    "dateOfBirth": "2010-08-20T00:00:00",
+    "normalizeId": "PD1540287",
+    "id": 1332060,
+    "sex": "Male",
+    "damId": 1219503,
+    "sireId": 1279931,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-09-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 222465
+      }
+    ]
+  },
+  {
+    "name": "SGCH Lukalah Farm Tiger Lily",
+    "dateOfBirth": "2010-03-24T00:00:00",
+    "normalizeId": "PD1536928",
+    "id": 1328692,
+    "sex": "Female",
+    "damId": 1277181,
+    "sireId": 1195072,
+    "ownerAccount": {
+      "displayName": "Miranda Mathae"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2011-07-02T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "A",
+        "finalScore": 78,
+        "isPermanent": false,
+        "id": 190540
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2012-06-16T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "+",
+        "mammarySystem": "+",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 196824
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2013-06-26T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 206747
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-06-14T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 217382
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-07-05T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 229295
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-06-13T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 238981
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 252094
+      }
+    ]
+  },
+  {
+    "name": "SGCH Blue Bear BD Hershey Kisses",
+    "dateOfBirth": "2010-03-16T00:00:00",
+    "normalizeId": "PD1519723",
+    "id": 1311442,
+    "sex": "Female",
+    "damId": 1249917,
+    "sireId": 1187753,
+    "ownerAccount": {
+      "displayName": "Mark & Samantha Mielbrecht"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2012-08-19T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 199779
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2013-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 207076
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 244879
+      }
+    ]
+  },
+  {
+    "name": "Diji Farm CG Halle Berry",
+    "dateOfBirth": "2010-03-18T00:00:00",
+    "normalizeId": "PD1508878",
+    "id": 1300584,
+    "sex": "Female",
+    "damId": 1164661,
+    "sireId": 1222424,
+    "ownerAccount": {
+      "displayName": "Karen Espalin"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2012-06-05T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "+",
+        "mammarySystem": "+",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 196615
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-29T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 230145
+      }
+    ]
+  },
+  {
+    "name": "GCH AGS Crf Castle Rock Tuscan Sun",
+    "dateOfBirth": "2008-02-15T00:00:00",
+    "normalizeId": "PD1505736",
+    "id": 1297436,
+    "sex": "Female",
+    "damId": 1224940,
+    "sireId": 1146972,
+    "ownerAccount": {
+      "displayName": "Sarah Hawkins"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2011-05-22T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 190703
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2012-06-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 198977
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2015-06-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 226271
+      }
+    ]
+  },
+  {
+    "name": "SGCH Cori's Fancy Dinah Belle",
+    "dateOfBirth": "2009-06-28T00:00:00",
+    "normalizeId": "PD1487383",
+    "id": 1279029,
+    "sex": "Female",
+    "damId": 1263412,
+    "sireId": 1260048,
+    "ownerAccount": {
+      "displayName": "Debra Inman"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2013-09-21T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 211618
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2015-04-30T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 224627
+      }
+    ]
+  },
+  {
+    "name": "Purple Camas Farm Fabio",
+    "dateOfBirth": "2008-06-22T00:00:00",
+    "normalizeId": "PD1468690",
+    "id": 1260305,
+    "sex": "Male",
+    "damId": 1146370,
+    "sireId": 1149706,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2011-07-04T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 190156
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2012-06-13T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 196866
+      }
+    ]
+  },
+  {
+    "name": "SG Piddlin Acres w Taboo",
+    "dateOfBirth": "2007-08-05T00:00:00",
+    "normalizeId": "PD1433260",
+    "id": 1224809,
+    "sex": "Female",
+    "damId": 1224003,
+    "sireId": 1160197,
+    "ownerAccount": {
+      "displayName": "Duva Appleman"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-07-03T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 229897
+      }
+    ]
+  },
+  {
+    "name": "GCH Buttin'heads Paperclip",
+    "dateOfBirth": "2007-01-01T00:00:00",
+    "normalizeId": "PD1417026",
+    "id": 1208513,
+    "sex": "Female",
+    "damId": 1121094,
+    "sireId": 1183232,
+    "ownerAccount": {
+      "displayName": "Tom, Sue & Eric Rucker"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2011-08-06T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 191753
+      },
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2013-09-03T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 210688
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2014-05-26T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 216860
+      }
+    ]
+  }
+]
