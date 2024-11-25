@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "dam": "PD2300152",
+    "sire": "Urban Acres HWT Steller Wind",
+    "due": "December 25 2024",
+    "description": "Ultrasound: 3-4\nReservations:\n1. RETAIN DOE/BUCK\n2.\n3."
+  },
+  {
+    "dam": "PD2096076",
+    "sire": "PD2368944",
+    "due": "december 30 2024",
+    "description": "Ultrasound: 3-4\nReservations:\n1. REATAIN DOE\n2. C.R. DOE\n3. M.B. DOE/BUCK"
+  },
+  {
+    "dam": "PD1823268",
+    "sire": "PD2368944",
+    "due": "",
+    "description": "Reservations:\n1. RETAIN DOE"
+  },
+  {
+    "dam": "PD2288893",
+    "sire": "PD2368944",
+    "exposed": "",
+    "due": "December 30 2024",
+    "description": "Ultrasound: 2-3\nReservations:\n1. RETAIN DOE\n2. M.B. DOE\n3. "
+  },
+  {
+    "dam": "PD2256616",
+    "sire": "Urban Acres HWT Steller Wind",
+    "due": "december 25 2024",
+    "description": "Ultrasound: 4+\nReservations:\n1. RETAIN DOE(?)\n2.\n3."
+  }
+]
