@@ -1,3 +1,14 @@
+## 3.2.0-beta.2
+* Fixed a bug causing the LA table headers to be messed up on mobile
+
+## 3.2.0-beta.1
+* Added Support For Linear Appraisals!
+  * Does & Bucks pages now show the LA history
+  * Pedigrees now show LA scores
+
+## 3.1.0-beta.3
+* Added Tooltips to the socials
+
 ## 3.1.0-beta.2
 * Added a slight margin between the socials and the homepage content
 
