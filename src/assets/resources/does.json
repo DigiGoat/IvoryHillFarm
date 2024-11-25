@@ -10,7 +10,61 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Chocolate Sundgau With Random White.",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "H15",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-08-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 273718
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "1800-01-01T00:00:00",
+        "generalAppearance": null,
+        "dairyStrength": null,
+        "bodyCapacity": null,
+        "mammarySystem": null,
+        "finalScore": null,
+        "isPermanent": false,
+        "id": 281570
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-06-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 284536
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2023-06-28T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 303176
+      }
+    ]
   },
   {
     "name": "EZ PZ Farm Ladyglittersparkles",
@@ -23,7 +77,45 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Chocolate With Minimal White",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "HH16",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      "1": {
+        "tattoo": "M5",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-06-07T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "+",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 286179
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2023-06-28T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "V",
+        "mammarySystem": "G",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 304492
+      }
+    ]
   },
   {
     "name": "Dlmg Farms LJ Antique Lace",
@@ -36,7 +128,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Black With White Poll And Blaze, Frosted Ears",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "P33",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "TUA Farms PK Lucrezia Borgia",
@@ -49,7 +150,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Black With White",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "P25",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Dlmg Farms LJ Cocoa Cream",
@@ -62,7 +172,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Chocolate And White, White Poll, White Blaze",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "R3",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Ivory Hills CA Hot Tamale",
@@ -75,7 +194,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Dark Buckskin w/ Moonspots",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "R1",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Highland Ranch White Willow",
@@ -88,7 +216,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Buckskin Chamoisee Combo With Abundant White",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "R2",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Johnson FF JS Snickers",
@@ -101,7 +238,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Chocolate Buckskin With White ",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "R10",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Broken Top MT Bee Dee Ess Emm",
@@ -114,7 +260,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Grey/Brown Buckskin",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "R24",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "TUA Farms BF Marigold",
@@ -127,7 +282,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Gold",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S6",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Hanson Hideaway Crumble Cake",
@@ -140,7 +304,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Black & White Roan",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S4",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Broken Top IU Lola Bunny",
@@ -153,7 +326,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Chocolate Buckskin With Roaning",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S12",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Ivory Hills TK Take A Joke",
@@ -166,7 +348,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Buckskin Chamoisee",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S4",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Ivory Hills TK Peanut B'udder",
@@ -179,7 +370,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Buckskin w/ White",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S7",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Ivory Hills TK Leather N Lace",
@@ -192,7 +392,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Black",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S9",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Noble Dove Golds Snow Berry",
@@ -205,6 +414,15 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "White",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S1",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   }
 ]
