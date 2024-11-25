@@ -50,5 +50,18 @@
       "displayName": ""
     },
     "colorAndMarking": ""
+  },
+  {
+    "name": "IlenesRascals SC Beneficio ",
+    "dateOfBirth": "2023-01-03T16:15:25",
+    "normalizeId": "PD2281059",
+    "id": 2281059,
+    "sex": "Male",
+    "damId": 1710082,
+    "sireId": 1805634,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
