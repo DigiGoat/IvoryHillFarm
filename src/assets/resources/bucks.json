@@ -24,5 +24,18 @@
       "displayName": ""
     },
     "colorAndMarking": ""
+  },
+  {
+    "name": "Dlmg Farms JM Amaretto",
+    "dateOfBirth": "2023-02-21T17:16:00",
+    "normalizeId": "PD2349776",
+    "id": 2349776,
+    "sex": "Male",
+    "damId": 1830644,
+    "sireId": 1907875,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
